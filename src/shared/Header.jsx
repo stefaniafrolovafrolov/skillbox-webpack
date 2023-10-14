@@ -4,7 +4,7 @@ export function Header () {
   return(
     <header>
       <h1>
-        Reddit for our own
+        Тестим работу вебпака на сервере
       </h1>
     </header>
   )
